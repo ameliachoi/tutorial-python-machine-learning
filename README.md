@@ -11,7 +11,13 @@
 
 02. 사이킷런으로 시작하는 머신 러닝
 
+- [첫 번째 머신러닝 만들어 보기 (붓꽃 품종 예측하기)](https://github.com/ameliachoi/tutorial-python-machine-learning/blob/master/python_ml_02_iris.ipynb)
+
+- [사이킷런으로 수행하는 타이나틱 생존자 예측](https://www.kaggle.com/jinameliachoi/tutorial-titanic-with-scikit-learn)
+
 03. 평가
+
+- [피마 인디언 당뇨병 예측]()
 
 04. 분류
 
