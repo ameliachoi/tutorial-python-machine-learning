@@ -17,7 +17,7 @@
 
 03. 평가
 
-- [피마 인디언 당뇨병 예측]()
+- [피마 인디언 당뇨병 예측](https://www.kaggle.com/jinameliachoi/tutorial-pima-indians-diabetes)
 
 04. 분류
 
