@@ -21,6 +21,9 @@
 
 04. 분류
 
+- [결정 트리 실습 : 사용자 행동 인식 데이터 세트](https://www.kaggle.comtutorial-human-activity-recognition-smartphone)
+
+
 05. 회귀
 
 06. 차원 축소
