@@ -23,6 +23,9 @@
 
 - [결정 트리 실습 : 사용자 행동 인식 데이터 세트](https://www.kaggle.comtutorial-human-activity-recognition-smartphone)
 
+- [분류 실습 : 캐글 산탄데르 고객 만족 예측](https://www.kaggle.comtutorial-santander-customer-satisfaction)
+
+- [분류 실습 : 캐글 신용카드 사기 검출]()
 
 05. 회귀
 
