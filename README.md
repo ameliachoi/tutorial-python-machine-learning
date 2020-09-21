@@ -25,9 +25,11 @@
 
 - [분류 실습 : 캐글 산탄데르 고객 만족 예측](https://www.kaggle.comtutorial-santander-customer-satisfaction)
 
-- [분류 실습 : 캐글 신용카드 사기 검출]()
+- [분류 실습 : 캐글 신용카드 사기 검출](https://www.kaggle.com/jinameliachoi/tutorial-credit-card-fraud-detection)
 
 05. 회귀
+
+- [LinearRegression을 이용한 보스턴 주택 가격 회귀 구현]()
 
 06. 차원 축소
 
