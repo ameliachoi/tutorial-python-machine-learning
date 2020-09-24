@@ -29,11 +29,11 @@
 
 05. 회귀
 
-- [LinearRegression을 이용한 보스턴 주택 가격 회귀 구현]()
+- [LinearRegression을 이용한 보스턴 주택 가격 회귀 구현 / 진행 중]()
 
 - [자전거 대여 수요 예측](https://www.kaggle.comtutorial-bike-sharing-demand-regression)
 
-- [캐글 주택 가격: 고급 회귀 기법](
+- [캐글 주택 가격: 고급 회귀 기법](https://www.kaggle.comtutorial-house-prices-advanced-regression)
 
 06. 차원 축소
 
