@@ -21,9 +21,9 @@
 
 04. 분류
 
-- [결정 트리 실습 : 사용자 행동 인식 데이터 세트](https://www.kaggle.comtutorial-human-activity-recognition-smartphone)
+- [결정 트리 실습 : 사용자 행동 인식 데이터 세트](https://www.kaggle.com/jinameliachoi/tutorial-human-activity-recognition-smartphone)
 
-- [분류 실습 : 캐글 산탄데르 고객 만족 예측](https://www.kaggle.comtutorial-santander-customer-satisfaction)
+- [분류 실습 : 캐글 산탄데르 고객 만족 예측](https://www.kaggle.com/jinameliachoi/tutorial-santander-customer-satisfaction)
 
 - [분류 실습 : 캐글 신용카드 사기 검출](https://www.kaggle.com/jinameliachoi/tutorial-credit-card-fraud-detection)
 
@@ -31,9 +31,9 @@
 
 - [LinearRegression을 이용한 보스턴 주택 가격 회귀 구현 / 진행 중]()
 
-- [자전거 대여 수요 예측](https://www.kaggle.comtutorial-bike-sharing-demand-regression)
+- [자전거 대여 수요 예측](https://www.kaggle.com/jinameliachoi/tutorial-bike-sharing-demand-regression)
 
-- [캐글 주택 가격: 고급 회귀 기법](https://www.kaggle.comtutorial-house-prices-advanced-regression)
+- [캐글 주택 가격: 고급 회귀 기법](https://www.kaggle.com/jinameliachoi/tutorial-house-prices-advanced-regression)
 
 06. 차원 축소
 
