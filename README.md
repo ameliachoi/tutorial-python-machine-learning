@@ -37,7 +37,11 @@
 
 06. 차원 축소
 
+- [PCA - default of credit card clients](https://www.kaggle.com/jinameliachoi/tutorial-pca-default-of-credit-card-clients)
+
 07. 군집화
+
+- [Online Retail Consumer Segmentation 고객 세그멘테이션](https://www.kaggle.com/jinameliachoi/tutorial-online-retail-consumer-segmentation)
 
 08. 텍스트 분석 
 
