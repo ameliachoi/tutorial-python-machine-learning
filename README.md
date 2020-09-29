@@ -47,6 +47,6 @@
 
 - [텍스트 분류 실습: 20 뉴스그룹 분류](https://github.com/ameliachoi/tutorial-python-machine-learning/blob/master/python_ml_08_20newsgroups.ipynb)
 
-- [지도학습 기반 감성 분석 실습]
+- [지도학습 기반 감성 분석 실습 - IMDB 영화평](https://www.kaggle.com/jinameliachoi/tutorial-bags-of-words-meets-bags-of-popcorn)
 
 09. 추천 시스템
