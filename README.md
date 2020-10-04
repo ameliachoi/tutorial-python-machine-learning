@@ -51,4 +51,6 @@
 
 - [문서 군집화 소개와 실습 - Opinion Review 데이터 세트](https://github.com/ameliachoi/tutorial-python-machine-learning/blob/master/python_ml_08_opinion_review.ipynb)
 
+- [한글 텍스트 처리 - 네이버 영화 평점 감성 분석](https://github.com/ameliachoi/tutorial-python-machine-learning/blob/master/python_ml_08_KoNLPy.ipynb)
+
 09. 추천 시스템
