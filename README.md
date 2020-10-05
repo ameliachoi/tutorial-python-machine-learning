@@ -53,4 +53,6 @@
 
 - [한글 텍스트 처리 - 네이버 영화 평점 감성 분석](https://github.com/ameliachoi/tutorial-python-machine-learning/blob/master/python_ml_08_KoNLPy.ipynb)
 
+- [Mercari Price Suggestion Challenge](https://www.kaggle.com/jinameliachoi/tutorial-mercari-price-suggestion-challenge)
+
 09. 추천 시스템
